@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "x.com",
+        "twitter.com",
+        "t.co",
+        "twitpic.com"
+      ],
+      "domain_suffix": [
+        ".x.com",
+        ".twitter.com",
+        ".t.co",
+        ".twimg.com",
+        ".periscope.tv",
+        ".pscp.tv",
+        ".vine.co"
+      ],
+      "domain_keyword": [
+        "twitter",
+        "twimg"
+      ]
+    }
+  ]
+}
